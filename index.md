@@ -20,47 +20,53 @@ Science and Technology Studies • Wirtschafts‐ und Konsumssoziologie • Bewe
 
 ## Ausbildung
 
-`2014–2019`
-__Universität Kassel__
-- Promotion zum Dr. phil, Note: summa cum laude. Fachbereich 05 Gesellschaftswissenschaften. Betreuung: Prof. Dr. Jörn Lamla, Prof.in Dr. Tanja Bogusz. 
-- Publikation aus der Dissertation heraus (s.u.): Hightech am Ende. Über das globale Recycling von Elektroschrott und die Entstehung neuer Werte
+`2014–
+2019`
+Universität Kassel
+Promotion zum Dr. phil, Note: summa cum laude. Fachbereich 05 Gesellschaftswissenschaften. Betreuung: Prof. Dr. Jörn Lamla, Prof.in Dr. Tanja Bogusz. 
+Publikation aus der Dissertation heraus (s.u.): Hightech am Ende. Über das globale Recycling von Elektroschrott und die Entstehung neuer Werte
 
-`2011–2013`
-__Friedrich‐Schiller Universität Jena__
+`2011–
+2013`
+Friedrich‐Schiller Universität Jena
 
-- Master of Arts, Soziologie
+Master of Arts, Soziologie
 
-`07/2012–03/2013`
-__Jawaharlal Nehru University, Neu-Delhi__
+`07/2012–
+03/2013`
+Jawaharlal Nehru University, Neu-Delhi
 
-- Auslandssemester
+Auslandssemester
 
 `07/2013`
-__RWTH Aachen__
+RWTH Aachen
 
-- Summer School, German‐Indo academic exchange, Stipendiat
+Summer School, German‐Indo academic exchange, Stipendiat
 
-`2008–2011`
-__Friedrich‐Schiller Universität Jena__
+`2008–
+2011`
+Friedrich‐Schiller Universität Jena
 
-- Bachelor of Arts, Soziologie (Hauptfach) und Interkulturelle Wirtschaftskommunikation (Nebenfach)
+Bachelor of Arts, Soziologie (Hauptfach) und Interkulturelle Wirtschaftskommunikation (Nebenfach)
 
 `2007`
-__Märkisches Gymnasium Hamm__
+Märkisches Gymnasium Hamm
 
 - Abitur
 
 ## Beruflicher Werdegang
 
-### Als Angestellter an der Ruhr-Universität-Bochum
+*Als Angestellter an der Ruhr-Universität-Bochum*
 
-`09/2019–03/2020`
+`09/2019–
+03/2020`
 Wissenschaftlicher Mitarbeiter (100%), Postdoc, Lehrstuhl für Kulturpsychologie und Wissensanthropologie, Fakultät für  Sozialwissenschaft; Koordinator des Ruhr University Science and Technol‐
 ogy lab (RUSTlab)
 
-### Als Angestellter an der Universität Kassel
+*Als Angestellter an der Universität Kassel*
 
-`04/2019–06/2019` 
+`04/2019–
+06/2019` 
 Wissenschaftlicher Mitarbeiter (65%), Fachgebiet Soziologische Theorie
 
 `03/2019`
@@ -70,7 +76,7 @@ Visiting Scholar, Department of Work, Organization and Technology (Management Sc
 
 <!-- Siehe auch [researchgate](https://www.researchgate.net/profile/Stefan-Laser) -->
 
-### Monographie
+MONOGRAPHIE
 
 `2020`
 Laser, Stefan (2020): Hightech am Ende. Über das globale Recycling von Elektroschrott und die Entstehung neuer Werte. Reihe: Soziologie des Wertens und Bewertens. Wiesbaden: Springer VS.
