@@ -13,23 +13,24 @@ title: CV of Stefan Laser
 
 Wissenschaftlicher Mitarbeiter, Postdoc, Fakultät für Sozialwissenschaften, SFB "Medien der Kooperation", Teilprojekt A04 "Normale Betriebsausfälle," Universität Siegen
 
-### Spezialisierung
+## Spezialisierung
 
 Science and Technology Studies • Wirtschafts‐ und Konsumssoziologie • Bewertungssoziologie Abfall (v.a. Elektroschrott) • Infrastrukturen • Nachhaltigkeit • Digitalisierung u. digitale Methoden
 
 
 ## Ausbildung
 
-`2014-2019`
+`2014–2019`
 __Universität Kassel__
-- Promotion zum Dr. phil, Note: summa cum laude. Fachbereich 05 Gesellschaftswissenschaften. Betreuung: Prof. Dr. Jörn Lamla, Prof.in Dr. Tanja Bogusz. Publikation aus der Dissertation heraus (s.u.): Hightech am Ende. Über das globale Recycling von Elektroschrott und die Entstehung neuer Werte
+- Promotion zum Dr. phil, Note: summa cum laude. Fachbereich 05 Gesellschaftswissenschaften. Betreuung: Prof. Dr. Jörn Lamla, Prof.in Dr. Tanja Bogusz. 
+- Publikation aus der Dissertation heraus (s.u.): Hightech am Ende. Über das globale Recycling von Elektroschrott und die Entstehung neuer Werte
 
-`2011-2013`
+`2011–2013`
 __Friedrich‐Schiller Universität Jena__
 
 - Master of Arts, Soziologie
 
-`07/2012 - 03/2013`
+`07/2012–03/2013`
 __Jawaharlal Nehru University, Neu-Delhi__
 
 - Auslandssemester
@@ -39,7 +40,7 @@ __RWTH Aachen__
 
 - Summer School, German‐Indo academic exchange, Stipendiat
 
-`2008-2011`
+`2008–2011`
 __Friedrich‐Schiller Universität Jena__
 
 - Bachelor of Arts, Soziologie (Hauptfach) und Interkulturelle Wirtschaftskommunikation (Nebenfach)
@@ -49,28 +50,33 @@ __Märkisches Gymnasium Hamm__
 
 - Abitur
 
-## Awards
+## Beruflicher Werdegang
 
-`2012`
-President, *Royal Society*, London, UK
+### Als Angestellter an der Ruhr-Universität-Bochum
 
-Associate, *French Academy of Science*, Paris, France
+`09/2019–03/2020`
+Wissenschaftlicher Mitarbeiter (100%), Postdoc, Lehrstuhl für Kulturpsychologie und Wissensanthropologie, Fakultät für  Sozialwissenschaft; Koordinator des Ruhr University Science and Technol‐
+ogy lab (RUSTlab)
 
+### Als Angestellter an der Universität Kassel
 
+`04/2019–06/2019` 
+Wissenschaftlicher Mitarbeiter (65%), Fachgebiet Soziologische Theorie
 
-## Publications
+`03/2019`
+Visiting Scholar, Department of Work, Organization and Technology (Management School), Lancaster University, UK
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Publikationen
 
-### Journals
+<!-- Siehe auch [researchgate](https://www.researchgate.net/profile/Stefan-Laser) -->
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+### Monographie
 
-`1669`
-Lectiones opticæ.
+`2020`
+Laser, Stefan (2020): Hightech am Ende. Über das globale Recycling von Elektroschrott und die Entstehung neuer Werte. Reihe: Soziologie des Wertens und Bewertens. Wiesbaden: Springer VS.
 
-etc. etc. etc.
+Website zum Buch, auf Deutsch und Englisch, mit einer eigenen Aufbereitung für die interessierte
+Öffentlichkeit: https://hightech‐am‐ende.de/
 
 ### Patents
 
