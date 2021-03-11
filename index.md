@@ -1,46 +1,53 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV of Stefan Laser
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Dr. phil Stefan Laser
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="isaac@applesdofall.org">stefan.laser@uni-siegen.de</a>
 </div>
 
 
-## Currently
+## Aktuelle Position
 
-Standing on the shoulders of giants
+Wissenschaftlicher Mitarbeiter, Postdoc, Fakultät für Sozialwissenschaften, SFB "Medien der Kooperation", Teilprojekt A04 "Normale Betriebsausfälle," Universität Siegen
 
-### Specialized in
+### Spezialisierung
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Science and Technology Studies • Wirtschafts‐ und Konsumssoziologie • Bewertungssoziologie Abfall (v.a. Elektroschrott) • Infrastrukturen • Nachhaltigkeit • Digitalisierung u. digitale Methoden
 
 
-## Education
+## Ausbildung
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014-2019`
+__Universität Kassel__
+- Promotion zum Dr. phil, Note: summa cum laude. Fachbereich 05 Gesellschaftswissenschaften. Betreuung: Prof. Dr. Jörn Lamla, Prof.in Dr. Tanja Bogusz. Publikation aus der Dissertation heraus (s.u.): Hightech am Ende. Über das globale Recycling von Elektroschrott und die Entstehung neuer Werte
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2011-2013`
+__Friedrich‐Schiller Universität Jena__
 
-- Sizar
+- Master of Arts, Soziologie
 
-`1667 - death`
-__Trinity College, Cambridge__
+`07/2012 - 03/2013`
+__Jawaharlal Nehru University, Neu-Delhi__
 
-- Fellow
+- Auslandssemester
 
+`07/2013`
+__RWTH Aachen__
 
+- Summer School, German‐Indo academic exchange, Stipendiat
+
+`2008-2011`
+__Friedrich‐Schiller Universität Jena__
+
+- Bachelor of Arts, Soziologie (Hauptfach) und Interkulturelle Wirtschaftskommunikation (Nebenfach)
+
+`2007`
+__Märkisches Gymnasium Hamm__
+
+- Abitur
 
 ## Awards
 
